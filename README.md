@@ -27,17 +27,7 @@
   <img src="https://img.shields.io/badge/Azure-Data%20Fundamentals-lightblue?logo=microsoft-azure" alt="Azure Badge"/>
 </p>
 
----
 
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
 
 ## 🌐 Connect With Me  
 <p align="center">
@@ -52,10 +42,5 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
 
 ---
