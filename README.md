@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/SQL-MySQL%20|%20PostgreSQL-blue?logo=postgresql" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/Power%20BI-DAX%20|%20Modeling-yellow?logo=powerbi" alt="Power BI Badge"/>
   <img src="https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel" alt="Excel Badge"/>
-  <img src="https://img.shields.io/badge/Python-Automation-orange?logo=python" alt="Python Badge"/>
+  <!---<img src="https://img.shields.io/badge/Python-Automation-orange?logo=python" alt="Python Badge"/>--->
   <img src="https://img.shields.io/badge/Azure-Data%20Fundamentals-lightblue?logo=microsoft-azure" alt="Azure Badge"/>
 </p>
 
