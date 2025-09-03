@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ramya Sree</h1>
-<h3 align="center">Data Analyst | Power BI | SQL | Excel | Python</h3>
+<h3 align="center">Data Analyst | Power BI | SQL | Excel</h3>
 
 <!-- Typing Animation -->
 <p align="center">
