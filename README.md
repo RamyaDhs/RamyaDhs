@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 
 <h1 align="center">Hi 👋, I'm Ramya Sree</h1>
-<h3 align="center">Data & BI Consultant | Power BI | Microsoft Fabric | SQL | Snowflake</h3>
+<h3 align="center">Data & BI Professional | Power BI | Microsoft Fabric | SQL | Snowflake</h3>
 
 <!-- Typing Animation -->
 
@@ -115,10 +115,7 @@ My areas of interest include:
 <p align="center">
   <a href="https://www.linkedin.com/in/archakam-paramkusam-ramya-sree/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:ramyasriap99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi!-red?logo=gmail" alt="Email Badge"/>
-  </a>
+
   <a href="https://github.com/RamyaDhs" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub Badge"/>
   </a>
